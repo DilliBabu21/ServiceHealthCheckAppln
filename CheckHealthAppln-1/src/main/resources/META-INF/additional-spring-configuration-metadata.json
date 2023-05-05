@@ -1,0 +1,82 @@
+{"properties": [
+  {
+    "name": "management.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoints.web.exposure.include'"
+  },
+  {
+    "name": "endpoint.health.show-details",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.health.show-details'"
+  },
+  {
+    "name": "management.endpoint.health.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoint.health.enabled'"
+  },
+  {
+    "name": "register-health-indicator",
+    "type": "java.lang.String",
+    "description": "A description for 'register-health-indicator'"
+  },
+  {
+    "name": "failure-rate-threshold",
+    "type": "java.lang.String",
+    "description": "A description for 'failure-rate-threshold'"
+  },
+  {
+    "name": "wait-duration-in-open-state",
+    "type": "java.lang.String",
+    "description": "A description for 'wait-duration-in-open-state'"
+  },
+  {
+    "name": "ring-buffer-size-in-closed-state",
+    "type": "java.lang.String",
+    "description": "A description for 'ring-buffer-size-in-closed-state'"
+  },
+  {
+    "name": "endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.web.exposure.include'"
+  },
+  {
+    "name": "resilience4j.cache.configs.myCache.maximum-size",
+    "type": "java.lang.String",
+    "description": "A description for 'resilience4j.cache.configs.myCache.maximum-size'"
+  },
+  {
+    "name": "resilience4j.cache.configs.myCache.expire-after-write",
+    "type": "java.lang.String",
+    "description": "A description for 'resilience4j.cache.configs.myCache.expire-after-write'"
+  },
+  {
+    "name": "resilience4j.cache.caches.findAllServices.spec",
+    "type": "java.lang.String",
+    "description": "A description for 'resilience4j.cache.caches.findAllServices.spec'"
+  },
+  {
+    "name": "resilience4j.cache.caches.findAllServices.cache-type",
+    "type": "java.lang.String",
+    "description": "A description for 'resilience4j.cache.caches.findAllServices.cache-type'"
+  },
+  {
+    "name": "resilience4j.cache.caches.findAllServices.cache-type",
+    "type": "java.lang.String",
+    "description": "A description for 'resilience4j.cache.caches.findAllServices.cache-type'"
+  },
+  {
+    "name": "resilience4j.cache.caches.findAllServices.cache-type",
+    "type": "java.lang.String",
+    "description": "A description for 'resilience4j.cache.caches.findAllServices.cache-type'"
+  },
+  {
+    "name": "resilience4j.cache.caches.findAllServices.cache-type",
+    "type": "java.lang.String",
+    "description": "A description for 'resilience4j.cache.caches.findAllServices.cache-type'"
+  },
+  {
+    "name": "resilience4j.cache.caches.findAllServices.cache-type",
+    "type": "java.lang.String",
+    "description": "A description for 'resilience4j.cache.caches.findAllServices.cache-type'"
+  }
+]}
